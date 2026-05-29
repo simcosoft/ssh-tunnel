@@ -1,4 +1,5 @@
 /_/
+.DS_Store
 ssh_tunnel
 *.exe
 *.zip

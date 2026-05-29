@@ -1,0 +1,8 @@
+/_/
+ssh_tunnel
+*.exe
+*.zip
+*.rar
+desktop.ini
+.vscode
+.ssh_tunnel.json
